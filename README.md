@@ -1,4 +1,4 @@
-# Five Hacks for Twenty Seventeen
+# Twenty Seventeen Child
 ## A WordPress Child Theme for Twenty Seventeen
 
 This is a child theme that adds the following features to Twenty Seventeen:
